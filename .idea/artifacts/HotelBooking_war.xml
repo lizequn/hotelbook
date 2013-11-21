@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HotelBooking:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="hotelBooking.war">
+      <element id="artifact" artifact-name="HotelBooking:war exploded" />
+    </root>
+  </artifact>
+</component>
